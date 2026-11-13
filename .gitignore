@@ -1,7 +1,8 @@
 node_modules/
 dist/
 .env
-uploads/
+  uploads/*
+  !uploads/.gitkeep
 *.log
 .DS_Store
 public/css/output.css
